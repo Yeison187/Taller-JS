@@ -1,4 +1,4 @@
- class Fridge extends Electrodomesticos{
+ export class Fridge extends Electrodomesticos{
 
 
 

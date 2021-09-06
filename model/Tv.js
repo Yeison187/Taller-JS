@@ -1,4 +1,4 @@
-class Tv extends Electrodomesticos {
+export class Tv extends Electrodomesticos {
 
    
     calcularPrecio( procedencia, consumo){

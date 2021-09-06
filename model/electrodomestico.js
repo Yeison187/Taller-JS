@@ -1,7 +1,6 @@
- class Electrodomesticos {
+ export class Electrodomesticos {
 
-   calcularTotal();
-
+   
 
     precioElectrodomesticos(procedencia, consumo) {
         var total = 0;

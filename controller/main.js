@@ -1,12 +1,12 @@
 
 function agregar(){
-window.location.href="model/electrodomestico.js";
+window.location.href="Views/agregar.php";
 }
 
 function facturar(){
-window.location.href="model/electrodomestico.js";
+window.location.href="Views/facturar.php";
 }
 
 function stock(){
-window.location.href="model/electrodomestico.js";
+window.location.href="Views/stock.php";
 }
