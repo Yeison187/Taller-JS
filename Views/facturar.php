@@ -9,9 +9,7 @@
 <style >
 
 </style>
-<body>
-
-	<script src="controller/main.js"></script>
+<body>>
 
 
 </body>

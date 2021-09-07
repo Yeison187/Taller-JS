@@ -20,17 +20,17 @@
             var tv = [{producto: this.producto, tipoConsumo: this.consumo,
                     procedencia: this.procedencia,pulgadas: this.tamano,
                     tdt: this.tdt, cantidad: this.cantidad}];
-
                     this.db.push(tv);
+                   
              break;
-         case "televisor":
-            var neveras = [{producto: this.producto,consumo: this.consumo,
+         case "nevera":
+            var neveras = [{producto: this.producto,tipoConsumo: this.consumo,
                         procedencia: this.procedencia, capacidad: this.tamano,
                         cantidad: this.cantidad}];
                         this.db.push(neveras);
              break;
          case "otros":
-            var otros = [{producto: this.producto,consumo: this.consumo,
+            var otros = [{producto: this.producto,tipoConsumo: this.consumo,
                     procedencia: this.procedencia, cantidad: this.cantidad}];
                     this.db.push(otros);
           break;     

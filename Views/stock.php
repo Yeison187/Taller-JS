@@ -10,9 +10,10 @@
 <body>
 
 
-	<script src="controller/main.js"></script>
-
+	<script src="../controller/stock.js"></script>
+	<script src="../controller/agregar.js"></script>
 
 </body>
+
 
 </html>
